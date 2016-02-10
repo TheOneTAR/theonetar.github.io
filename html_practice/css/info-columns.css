@@ -1,0 +1,44 @@
+body {
+   background-color: #5CD7E8;
+   font-family: sans-serif;
+   margin: 20px auto;
+   width: 80%;
+}
+
+.description {
+   margin-bottom: 40px;
+   width: 80%;
+   color: #333;
+}
+
+.description h1 {
+   font-size: 2.5em;
+   margin-bottom: 10px;
+}
+
+main {
+   background-color: #ffffff;
+   padding: 0px;
+   border-radius: 5px;
+}
+
+.person-bio {
+   vertical-align: top;
+   display: inline-block;
+
+   width: 18%;
+   min-width: 180px;
+   padding: 10px;
+   margin: 2%;
+   text-align: left;
+}
+
+.person-bio img{
+   width: 100%;
+   border-radius: 50%;
+}
+
+.email span {
+   font-weight: 700;
+   margin-right: 3px;
+}
