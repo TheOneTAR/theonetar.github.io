@@ -20,7 +20,7 @@ main {
    background-color: #ffffff;
    padding: 0px;
    border-radius: 5px;
-   margin: 0 auto;
+   text-align: center;
 }
 
 .person-bio {
@@ -37,6 +37,10 @@ main {
 .person-bio img{
    width: 100%;
    border-radius: 50%;
+}
+
+.email {
+   word-wrap: break-word;
 }
 
 .email span {
