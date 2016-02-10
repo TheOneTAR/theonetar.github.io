@@ -1,0 +1,13 @@
+body {
+   background-color: #44D6BD;
+   font-family: sans-serif;
+   margin: 20px auto;
+   width: 80%;
+}
+
+section {
+   background-color: #ffffff;
+   padding: 20px;
+   border-radius: 5px;
+
+}
