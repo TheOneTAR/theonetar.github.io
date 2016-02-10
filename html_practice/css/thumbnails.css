@@ -2,3 +2,26 @@ body {
    background-color: #42A4D6;
 
 }
+
+main li {
+    width: 200px;
+    height: 180px;
+    list-style: none;
+    position: relative;
+    overflow: hidden;
+
+    margin: 15px 15px 0 0;
+    display: inline-block;
+    border: 5px solid #fff;
+    border-radius: 2px;
+}
+
+main img {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 250px;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
