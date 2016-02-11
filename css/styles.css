@@ -26,9 +26,23 @@ header h1 {
 
 section {
    background-color: #ffffff;
-   padding: 20px;
+   padding: 5%;
+
+   border: solid 1px #666;
    border-radius: 5px;
+   margin: 20px 2%;
+   box-shadow: 10px 10px 0 #9D68B7;
 }
 
 section h2 {
+   margin-top: 0;
+}
+
+.helpful-reminder {
+   border: none;
+   padding: 2%;
+   margin: 2%;
+   box-shadow: 10px 10px 0 #fff;
+   color: #fff;
+   background-color: #9D68B7;
 }
